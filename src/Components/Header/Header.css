@@ -1,0 +1,50 @@
+.wrapper {
+    width: 200px;
+    background-color: yellow;
+    margin: 5px 0px 0px 12px;
+}
+.playerimage {
+    height: 200px;
+    background-color: red;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.information {
+    background-color: #250d15;
+    padding: 8px;
+}
+.information h2,h4{
+    margin: 0;
+
+}
+    .information h2 {
+        text-align: center;
+        color: white;
+        font-size: 22px;
+    }
+.information h4{
+    padding-left: 18px;
+    display:inline-block;
+    width: 40%;
+    color: red;
+}
+.position {
+    display: inline-flex;
+    background-color: #f6f6f6;
+    height: 40px;
+    width: 40px;
+    justify-content: center;
+    border-radius: 50%;
+    align-items: center;
+    margin-left: 50px;
+    color: crimson;
+}
+.details{
+    height: 100px;
+    width: 75px;
+    background-color: yellow;
+    position:absolute;
+    top: 0;
+    left: 50px;
+}
+
